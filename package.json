@@ -1,0 +1,19 @@
+{
+    "name": "materializeprac",
+    "version": "1.0.0",
+    "description": "materialize Practice",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.17.2",
+        "bootstrap": "^3.3.7",
+        "express": "^4.15.4",
+        "materialize-css": "^0.100.1",
+        "mongoose": "^4.11.8",
+        "path": "^0.12.7"
+    }
+}

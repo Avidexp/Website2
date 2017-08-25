@@ -1,0 +1,21 @@
+{
+  "name": "materializeprac",
+  "description": "materialize Practice",
+  "main": "index.js",
+  "authors": [
+    "Dylan <dj0759@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Avidexp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "^0.100.1"
+  }
+}
